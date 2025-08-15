@@ -1,3 +1,1 @@
-document.getElementById('contactBtn').addEventListener('click', function() {
-    alert('Thank you for reaching out!');
-});
+// Gallery button is now a link, no JavaScript needed for navigation
